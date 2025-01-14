@@ -41,10 +41,11 @@ This project is a fully responsive, modern, and interactive portfolio designed t
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
    cd portfolio-website
-##Install dependencies (if using React or a Node.js backend):
+
+Install dependencies (if using React or a Node.js backend):
 - npm install
 
-##Start the development server:
+Start the development server:
 -npm start
 
 Open the website:
@@ -54,7 +55,7 @@ Deploy your website:
 Use platforms like Netlify, Vercel, or GitHub Pages.
 myPortfolio is on Netlify
 
-##Folder Structure
+Folder Structure
 
 portfolio-website/
 ├── public/         # Static files like images, icons, etc.
